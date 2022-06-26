@@ -1,0 +1,1 @@
+Iniciando um projeto de bot para discord, com o objetivo de aprender sobre javascript
